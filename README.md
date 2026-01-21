@@ -7,7 +7,7 @@ Framework Used: **Flask**
 I chose Flask for its simplicity and lightweight structure which makes it ideal for creating a quick web skeleton.
 
 # How to Run the Application Locally
-**1.** Open PyCharm.
+1. Open PyCharm.
 2. Open your terminal and run: _pip install flask_
 3. Create a new Python project named **KatrinaLaurente_Hello_World**.
 4. Under the project directory, create a new Python file named app.py.
